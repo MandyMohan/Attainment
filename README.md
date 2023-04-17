@@ -1,5 +1,5 @@
 # Attainment
-Produce Attainment Performance Reports for 156 Secondary Schools in Trinidad and Tobago
+# Produce Attainment Performance Reports for 156 Secondary Schools in Trinidad and Tobago
 
 Attainment reports for secondary schools include the percentage of students that pass five or more subjects at CSEC (ie. obtain a full certificate). The necessary data for these reports are first extracted from a CSEC Combined Raw Database and compiled into an excel workbook using Power Query. This data is then used to create a pivot table and a subsequent pivot chart. The pivot table and subsequent chart shows the percent of students attaining a full certificate for a ten year period for each school. The pivot filter includes each school code which is unique for every individual school. The second page in the excel workbook shows the Number of Students Registering, Attempting and Attaining atleast 1 CSEC Subject. The data for this sheet is also extracted from a CSEC Combined Raw Database using Power Query and a subsequent scatter plot is also added. Performance sheets for each consecutive year within a ten year period is then added to the workbook using the AddPerformanceSheet code. The workbook now contains the necessary attainment data to produce attainment reports.
 
