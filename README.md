@@ -19,4 +19,4 @@ First an array of sheets (sheetsArray) is made based on the subsequent sheets th
 
 # AnomalyPDF and AnomalyXLSX
 
-These codes follow Attainmentpdf and Attainmentxlsx closely. The only difference is that AnomalyPDF and AnomalyXLSX only have 1 pivot loop and one needs to select the relevant school code in the pivot filter before the code is run. These codes go through each school code in the pivot filter and if one of them is visible, then all sheets in sheetsArray are filtered accordingly.
+These codes follow Attainmentpdf and Attainmentxlsx closely. The only difference is that AnomalyPDF and AnomalyXLSX only have 1 pivot loop and one needs to select the relevant school code in the pivot filter before the code is ran. These codes go through each school code in the pivot filter and if one of them is visible, then all sheets in sheetsArray are filtered accordingly. The trendlines for the charts are added accordingly as follows from Attainmentpdf and Attainmentxlsx and the filtered data is subsequently exported/ pasted as follows from Attainmentpdf and Attainmentxlsx.
