@@ -7,7 +7,7 @@ Now individual attainment reports for each school are produced using the codes A
  
 # Codes Summary
 
-The four codes are based on a loop which goes through each pivot item (ie. school code) in the pivot table on the first page of the workbook. Once a particular school code is visible, the remaining sheets in the workbook are subsequently filtered to show data pertaining to this school code only. The active sheets within the workbook are then formatted to be exported and subsequently exported into the relevant district folders.
+The four codes are based on a loop which goes through each pivot item (ie. school code) in the pivot table on the first page of the workbook. Once a particular school code is visible, the remaining sheets in the workbook are subsequently filtered to show data pertaining to this school code only. The worksheets within the workbook are then formatted to be exported and subsequently exported into the relevant district folders.
 
 # Attainmentpdf
 
